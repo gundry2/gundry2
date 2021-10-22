@@ -1,0 +1,4 @@
+- Hi there! I'm currently a double major in Computer Science and Mathematics at Portland State University.
+- I'm interested in learning more about machine learning, computational statistics, and parallelization.
+- I'm currently sharpening my skills in data analytics, engineering, and visualization through the use of personal projects.
+- If you're interested in collaboration or otherwise wish to contact me, please feel free to reach out through Github's email option. 
